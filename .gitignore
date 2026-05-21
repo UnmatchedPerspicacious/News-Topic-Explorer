@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+data/*
+!data/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.streamlit/
+.cache/
+models/
